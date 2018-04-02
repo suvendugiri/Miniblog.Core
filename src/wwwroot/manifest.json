@@ -1,7 +1,7 @@
 {
-  "name": "Typescript Interview Questions & Answers",
+  "name": "TypeScript Interview Questions",
   "short_name": "TIQA",
-  "description": "One stop for getting all technical questions and answers.",
+  "description": "One stop for getting all TypeScript inteview questions and answers.",
   "icons": [
     {
       "src": "/img/icon192x192.png",
