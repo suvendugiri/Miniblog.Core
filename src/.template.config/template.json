@@ -1,7 +1,7 @@
 {
-  "author": "Mads Kristensen",
+  "author": "Suvendu Shekhar Giri",
   "classifications": [ "Web", "MVC" ],
-  "name": "Miniblog.Core",
+  "name": "Interview Questions & Answers",
   "defaultName": "WebApplication1",
   "identity": "madsk.miniblog.core",
   "groupIdentity": "madsk.miniblog.core",
@@ -15,7 +15,7 @@
     "language": "C#",
     "type": "project"
   },
-  "sourceName": "Miniblog.Core",
+  "sourceName": "Interview Questions & Answers",
   "preferNameDirectory": true,
   "primaryOutputs": [ { "path": "Miniblog.Core.csproj" } ],
   "symbols": {
