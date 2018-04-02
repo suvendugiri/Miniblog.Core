@@ -13,7 +13,7 @@
 
 <article class="post container" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <header>
-        <h1 itemprop="name headline" style="font-size:1.5em;"><a href="@Model.GetLink()" rel="canonical" itemprop="url">@Model.Title</a></h1>
+        <h1 itemprop="name headline" style="font-size:1.5em; font-weight:bold;"><a href="@Model.GetLink()" rel="canonical" itemprop="url">@Model.Title</a></h1>
         <time datetime="@Model.PubDate.ToString("s")" itemprop="datePublished">Published @Model.PubDate.ToString("MMM d, yyyy")</time>
         @if (User.Identity.IsAuthenticated)
         {
